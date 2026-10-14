@@ -1,0 +1,11 @@
+# 本地记忆与工作数据（不推送）
+.workbuddy/
+
+# macOS
+.DS_Store
+
+# 依赖与临时文件
+node_modules/
+__pycache__/
+*.pyc
+.venv/
